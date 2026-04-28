@@ -213,7 +213,7 @@ create_statistics_meme(
 
 ### Explanation
 
-This meme demonstrates selection bias by showing how systematic missing data patterns distort our understanding of reality. The original image (Reality) represents the true population, while the stippled version (Your Model) shows our data collection. When selection bias removes data points in a systematic "S" pattern, the resulting estimate becomes biased and no longer represents the true population, just as missing data in real-world studies can lead to incorrect conclusions.
+This meme shows how systematic missing data patterns distort our understanding of reality. The first panel shows the original image, which indicates the true population. The second panel shows the stippled image, which transforms the original image into a stippled image. The third panel shows the selection bias image, which removes data points in a systematic "S" pattern. The fourth panel shows the estimate image, which is the result of the selection bias. When selection bias removes data points in a systematic "S" pattern, the resulting estimate becomes biased and no longer represents the true population, just as missing data in real-world studies can lead to incorrect conclusions.
 
 
 
