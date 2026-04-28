@@ -34,7 +34,7 @@ def prepare_image(
         Grayscale image as 2D array (height, width) with values in [0, 1]
     """
     # Load the image
-    original_img = Image.open(img_path)
+    original_img = Image.open("/Users/vicky/Desktop/BUAD667/selectionBiasChallenge/222C6793-7DAE-4BCC-9259-2D0E3C113099_1_105_c.jpeg")
     
     # Convert to grayscale if needed
     if original_img.mode != 'L':
